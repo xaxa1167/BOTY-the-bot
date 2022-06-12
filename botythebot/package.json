@@ -1,0 +1,23 @@
+{
+  "name": "botythebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaxa1167/BOTY-the-bot.git"
+  },
+  "author": "xaxa1167",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaxa1167/BOTY-the-bot/issues"
+  },
+  "homepage": "https://github.com/xaxa1167/BOTY-the-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3"
+  }
+}
