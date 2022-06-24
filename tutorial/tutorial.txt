@@ -1,0 +1,17 @@
+                    BOT SETUP
+. Go to https://discord.com/developers/applications
+. Click add application
+. Give it a name
+. Click bot
+. Reset token
+. Copy token
+. Paste token into tokenfile.json
+. Go to OAuth2
+. Go to URL generator
+. Select bot
+. Select administrator
+. Copy Link
+. Open link in browser
+. Add to your server
+. Set a prefix in botconfig.json
+Done! Start it with Start.bat
