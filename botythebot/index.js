@@ -21,3 +21,13 @@ bot.on("ready", async() => {
     },1000 );
 
 })
+bot.on("message", async message =>{
+    let MessageArray = message.content.split(" ");
+    let cmd = MessageArray[0];
+    let args = MessageArray.slice(1);
+    let prefix = botconfig.prefix;
+
+    
+})
+
+bot.login(tokenfile.token);
