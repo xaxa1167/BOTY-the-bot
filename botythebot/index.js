@@ -27,7 +27,12 @@ bot.on("message", async message =>{
     let args = MessageArray.slice(1);
     let prefix = botconfig.prefix;
 
+    //Paste zone starting here!
     
+
+
+
+    //Paste zone ending here!
 })
 
 bot.login(tokenfile.token);
