@@ -15,3 +15,14 @@
 . Add to your server
 . Set a prefix in botconfig.json
 Done! Start it with Start.bat
+
+                    Custom Commands
+
+Text reaction:
+Paste in the paste zone this: If(cmd == "reacting to this string! Example: "Hi Boty!"){
+    message.channel.send("reacting this! example:"hello!");
+}
+Spammer:
+Paste in the paste zone this: If(cmd = ""){
+    message.channel.send("Spam");
+}
